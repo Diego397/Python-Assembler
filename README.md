@@ -1,5 +1,7 @@
-Diego Alejandro Balejo Cardozo Rey - 495908
-Marcus Vinícius Paz Barros - 495682
+Esse foi o projeto final da minha cadeira de Arquitetura de Computadores durante o terceiro semestre do curso de Ciencias da Computação na UFC (Universidade Federal do Ceara).
+
+Diego Alejandro Balejo Cardozo Rey
+Marcus Vinícius Paz Barros
 
 Alterações no Firmware:
 Adicionamos um novo barramento;
